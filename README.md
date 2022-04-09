@@ -65,10 +65,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#378](https://github.com/coqui-ai/TTS/issues/378) in [coqui-ai/TTS](https://github.com/coqui-ai/TTS)
-2. 🗣 Commented on [#144](https://github.com/microsoft/BlingFire/issues/144) in [microsoft/BlingFire](https://github.com/microsoft/BlingFire)
-3. 🗣 Commented on [#1](https://github.com/aleksandr-aleksashin/ctcdecode-csharp/issues/1) in [aleksandr-aleksashin/ctcdecode-csharp](https://github.com/aleksandr-aleksashin/ctcdecode-csharp)
-4. 🗣 Commented on [#860](https://github.com/coqui-ai/TTS/issues/860) in [coqui-ai/TTS](https://github.com/coqui-ai/TTS)
-5. 🗣 Commented on [#378](https://github.com/coqui-ai/TTS/issues/378) in [coqui-ai/TTS](https://github.com/coqui-ai/TTS)
+2. 🗣 Commented on [#378](https://github.com/coqui-ai/TTS/issues/378) in [coqui-ai/TTS](https://github.com/coqui-ai/TTS)
+3. 🗣 Commented on [#144](https://github.com/microsoft/BlingFire/issues/144) in [microsoft/BlingFire](https://github.com/microsoft/BlingFire)
+4. 🗣 Commented on [#1](https://github.com/aleksandr-aleksashin/ctcdecode-csharp/issues/1) in [aleksandr-aleksashin/ctcdecode-csharp](https://github.com/aleksandr-aleksashin/ctcdecode-csharp)
+5. 🗣 Commented on [#860](https://github.com/coqui-ai/TTS/issues/860) in [coqui-ai/TTS](https://github.com/coqui-ai/TTS)
 <!--END_SECTION:activity-->
 
 </details>
