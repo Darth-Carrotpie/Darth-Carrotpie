@@ -54,9 +54,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dialogue-based voice interaction system design for a gamified VR experience](https://www.vargonas.com/latestPostPage1)
-- [Matchmaking Problem in Hardcore Games. Case Study: EFT](https://www.vargonas.com/latestPostPage2)
-- [Automated Dataset Generator for Image Segmentation](https://www.vargonas.com/latestPostPage3)
+- [Dialogue-based voice interaction system design for a gamified VR experience](https://www.vargonas.com/#/latestPostPage1)
+- [Matchmaking Problem in Hardcore Games. Case Study: EFT](https://www.vargonas.com/#/latestPostPage2)
+- [Automated Dataset Generator for Image Segmentation](https://www.vargonas.com/#/latestPostPage3)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://vargonas.com)
