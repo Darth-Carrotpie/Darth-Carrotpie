@@ -54,6 +54,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Matchmaking Problem in Hardcore Games. Case Study: EFT](https://www.vargonas.com/)
+- [Automated Dataset Generator for Image Segmentation](https://www.vargonas.com/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://vargonas.com)
