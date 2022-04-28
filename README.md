@@ -67,10 +67,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/rocky/python-decompile3/issues/71) in [rocky/python-decompile3](https://github.com/rocky/python-decompile3)
+1. 🗣 Commented on [#12807](https://github.com/huggingface/transformers/issues/12807) in [huggingface/transformers](https://github.com/huggingface/transformers)
 2. 🗣 Commented on [#71](https://github.com/rocky/python-decompile3/issues/71) in [rocky/python-decompile3](https://github.com/rocky/python-decompile3)
-3. 🗣 Commented on [#144](https://github.com/microsoft/BlingFire/issues/144) in [microsoft/BlingFire](https://github.com/microsoft/BlingFire)
-4. 🗣 Commented on [#378](https://github.com/coqui-ai/TTS/issues/378) in [coqui-ai/TTS](https://github.com/coqui-ai/TTS)
+3. 🗣 Commented on [#71](https://github.com/rocky/python-decompile3/issues/71) in [rocky/python-decompile3](https://github.com/rocky/python-decompile3)
+4. 🗣 Commented on [#144](https://github.com/microsoft/BlingFire/issues/144) in [microsoft/BlingFire](https://github.com/microsoft/BlingFire)
 5. 🗣 Commented on [#378](https://github.com/coqui-ai/TTS/issues/378) in [coqui-ai/TTS](https://github.com/coqui-ai/TTS)
 <!--END_SECTION:activity-->
 
