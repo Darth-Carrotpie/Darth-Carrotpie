@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/mkolodny/3taps/issues/3) in [mkolodny/3taps](https://github.com/mkolodny/3taps)
-2. 🗣 Commented on [#27](https://github.com/jundymek/free-proxy/issues/27) in [jundymek/free-proxy](https://github.com/jundymek/free-proxy)
+1. 🗣 Commented on [#13](https://github.com/JulesGM/ParlAI_SearchEngine/issues/13) in [JulesGM/ParlAI_SearchEngine](https://github.com/JulesGM/ParlAI_SearchEngine)
+2. ❗️ Opened issue [#3](https://github.com/mkolodny/3taps/issues/3) in [mkolodny/3taps](https://github.com/mkolodny/3taps)
 3. 🗣 Commented on [#27](https://github.com/jundymek/free-proxy/issues/27) in [jundymek/free-proxy](https://github.com/jundymek/free-proxy)
-4. ❗️ Opened issue [#27](https://github.com/jundymek/free-proxy/issues/27) in [jundymek/free-proxy](https://github.com/jundymek/free-proxy)
-5. ❗️ Opened issue [#1](https://github.com/EsaiasTilly/C-Google-Search/issues/1) in [EsaiasTilly/C-Google-Search](https://github.com/EsaiasTilly/C-Google-Search)
+4. 🗣 Commented on [#27](https://github.com/jundymek/free-proxy/issues/27) in [jundymek/free-proxy](https://github.com/jundymek/free-proxy)
+5. ❗️ Opened issue [#27](https://github.com/jundymek/free-proxy/issues/27) in [jundymek/free-proxy](https://github.com/jundymek/free-proxy)
 <!--END_SECTION:activity-->
 
 </details>
