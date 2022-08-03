@@ -67,11 +67,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/microsoft/BlingFire/issues/142) in [microsoft/BlingFire](https://github.com/microsoft/BlingFire)
-2. ❗️ Opened issue [#4697](https://github.com/facebookresearch/ParlAI/issues/4697) in [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI)
-3. 🗣 Commented on [#13](https://github.com/JulesGM/ParlAI_SearchEngine/issues/13) in [JulesGM/ParlAI_SearchEngine](https://github.com/JulesGM/ParlAI_SearchEngine)
-4. ❗️ Opened issue [#3](https://github.com/mkolodny/3taps/issues/3) in [mkolodny/3taps](https://github.com/mkolodny/3taps)
-5. 🗣 Commented on [#27](https://github.com/jundymek/free-proxy/issues/27) in [jundymek/free-proxy](https://github.com/jundymek/free-proxy)
+1. ❗️ Closed issue [#4697](https://github.com/facebookresearch/ParlAI/issues/4697) in [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI)
+2. 🗣 Commented on [#4697](https://github.com/facebookresearch/ParlAI/issues/4697) in [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI)
+3. 🗣 Commented on [#142](https://github.com/microsoft/BlingFire/issues/142) in [microsoft/BlingFire](https://github.com/microsoft/BlingFire)
+4. 🗣 Commented on [#142](https://github.com/microsoft/BlingFire/issues/142) in [microsoft/BlingFire](https://github.com/microsoft/BlingFire)
+5. ❗️ Opened issue [#4697](https://github.com/facebookresearch/ParlAI/issues/4697) in [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI)
 <!--END_SECTION:activity-->
 
 </details>
