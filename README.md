@@ -8,7 +8,7 @@
 
 - 🌱 I love learning everything 🤣
 - 👯 I’m looking to collaborate on inter-disciplinary products
-- 🥅 2022 Goals: Make an AI voice chatbot in VR
+- 🥅 2023 Goals: Visit Japan and earn a top Cyber Security certificate
 - ⚡ Fun facts: I love games, including ttRPG and boardgames, play piano and train Aikido
 
 
@@ -27,7 +27,8 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/carrotpye#gh-dark-mode-only)
 
 ### Languages and Tools:
-
+[<img align="left" alt="Kibana" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/archlinux.svg" style="padding-right:10px;" />](https://blackarch.org/)
+[<img align="left" alt="Arch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kibana.svg" style="padding-right:10px;" />](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kibana.svg)
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 [<img align="left" alt="Unity" width="26px" src="./img/unity-light.svg" style="padding-right:10px;" />](https://www.airconsole.com/play/battle-games/sheepdom#gh-dark-mode-only)
@@ -46,6 +47,7 @@
 [<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />](https://www.kaggle.com/danieliusv/code)
 [<img align="left" alt="Pandas" width="26px" src="./img/pandas-light.svg" style="padding-right:10px;" />](https://www.kaggle.com/danieliusv/code#gh-dark-mode-only)
 [<img align="left" alt="Pandas" width="26px" src="./img/pandas-dark.svg" style="padding-right:10px;" />](https://www.kaggle.com/danieliusv/code#gh-light-mode-only)
+[<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pytorch.svg" style="padding-right:10px;" />](https://www.kaggle.com/danieliusv/code#gh-light-mode-only)
 <br />
 <br />
 
