@@ -3,6 +3,7 @@
 [![Website](https://img.shields.io/website?label=vargonas.com&style=for-the-badge&url=https%3A%2F%2Fvargonas.com)](https://vargonas.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DarthCarrotpie?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDarthCarrotpie&screen_name=DarthCarrotpie)
 
+<!-- cron job for this action executes once per week every saturday https://crontab.guru/#0_0_*_*_6 -->
 
 ## I'm a Developer, ML Engineer and Cyber Security Professional!
 
@@ -67,14 +68,18 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Friday, March 24th, 2023, 1:04:17 AM
+<!--RECENT_ACTIVITY:last_update_end-->
+
+<!--RECENT_ACTIVITY:start-->
 1. 🗣 Commented on [#4807](https://github.com/facebookresearch/ParlAI/issues/4807) in [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI)
 2. 🗣 Commented on [#4734](https://github.com/facebookresearch/ParlAI/issues/4734) in [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI)
 3. 🗣 Commented on [#4692](https://github.com/facebookresearch/ParlAI/issues/4692) in [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI)
 4. 🗣 Commented on [#2](https://github.com/eeml2022-nlp/iglu-nlp/issues/2) in [eeml2022-nlp/iglu-nlp](https://github.com/eeml2022-nlp/iglu-nlp)
 5. ❗️ Closed issue [#4697](https://github.com/facebookresearch/ParlAI/issues/4697) in [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 </details>
 
