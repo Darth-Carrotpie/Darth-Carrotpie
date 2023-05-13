@@ -70,18 +70,19 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 6th, 2023, 2:51:20 AM
+Last Updated: Saturday, May 13th, 2023, 2:52:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [conceptofmind/LaMDA-rlhf-pytorch](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)<br>
-2. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/Darth-Carrotpie](https://github.com/Darth-Carrotpie/Darth-Carrotpie)<br>
-3. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/Darth-Carrotpie](https://github.com/Darth-Carrotpie/Darth-Carrotpie)<br>
-4. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/Darth-Carrotpie](https://github.com/Darth-Carrotpie/Darth-Carrotpie)<br>
-5. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/Darth-Carrotpie](https://github.com/Darth-Carrotpie/Darth-Carrotpie)<br>
-6. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-7. ⭐ Starred [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch)<br>
+1. ⭐ Starred [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules)<br>
+2. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/ParticipantTablesToXML](https://github.com/Darth-Carrotpie/ParticipantTablesToXML)<br>
+3. ⭐ Starred [dokku/dokku](https://github.com/dokku/dokku)<br>
+4. ⭐ Starred [amerkurev/doku](https://github.com/amerkurev/doku)<br>
+5. ⭐ Starred [conceptofmind/LaMDA-rlhf-pytorch](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)<br>
+6. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/Darth-Carrotpie](https://github.com/Darth-Carrotpie/Darth-Carrotpie)<br>
+7. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/Darth-Carrotpie](https://github.com/Darth-Carrotpie/Darth-Carrotpie)<br>
 8. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/Darth-Carrotpie](https://github.com/Darth-Carrotpie/Darth-Carrotpie)<br>
+9. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/Darth-Carrotpie](https://github.com/Darth-Carrotpie/Darth-Carrotpie)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
