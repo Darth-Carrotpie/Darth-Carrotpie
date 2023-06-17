@@ -70,19 +70,19 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 10th, 2023, 2:59:00 AM
+Last Updated: Saturday, June 17th, 2023, 2:57:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tertle/com.bovinelabs.saving.free](https://github.com/tertle/com.bovinelabs.saving.free)<br>
-2. ⭐ Starred [tertle/com.bovinelabs.core](https://github.com/tertle/com.bovinelabs.core)<br>
-3. ⭐ Starred [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)<br>
-4. ⭐ Starred [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules)<br>
-5. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/ParticipantTablesToXML](https://github.com/Darth-Carrotpie/ParticipantTablesToXML)<br>
-6. ⭐ Starred [dokku/dokku](https://github.com/dokku/dokku)<br>
-7. ⭐ Starred [amerkurev/doku](https://github.com/amerkurev/doku)<br>
-8. ⭐ Starred [conceptofmind/LaMDA-rlhf-pytorch](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)<br>
-9. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/Darth-Carrotpie](https://github.com/Darth-Carrotpie/Darth-Carrotpie)<br>
+1. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
+2. ⭐ Starred [tertle/com.bovinelabs.saving.free](https://github.com/tertle/com.bovinelabs.saving.free)<br>
+3. ⭐ Starred [tertle/com.bovinelabs.core](https://github.com/tertle/com.bovinelabs.core)<br>
+4. ⭐ Starred [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)<br>
+5. ⭐ Starred [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules)<br>
+6. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/ParticipantTablesToXML](https://github.com/Darth-Carrotpie/ParticipantTablesToXML)<br>
+7. ⭐ Starred [dokku/dokku](https://github.com/dokku/dokku)<br>
+8. ⭐ Starred [amerkurev/doku](https://github.com/amerkurev/doku)<br>
+9. ⭐ Starred [conceptofmind/LaMDA-rlhf-pytorch](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
