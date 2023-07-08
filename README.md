@@ -70,19 +70,19 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 1st, 2023, 3:14:42 AM
+Last Updated: Saturday, July 8th, 2023, 3:09:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
-2. ⭐ Starred [tertle/com.bovinelabs.saving.free](https://github.com/tertle/com.bovinelabs.saving.free)<br>
-3. ⭐ Starred [tertle/com.bovinelabs.core](https://github.com/tertle/com.bovinelabs.core)<br>
-4. ⭐ Starred [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)<br>
-5. ⭐ Starred [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules)<br>
-6. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/ParticipantTablesToXML](https://github.com/Darth-Carrotpie/ParticipantTablesToXML)<br>
-7. ⭐ Starred [dokku/dokku](https://github.com/dokku/dokku)<br>
-8. ⭐ Starred [amerkurev/doku](https://github.com/amerkurev/doku)<br>
-9. ⭐ Starred [conceptofmind/LaMDA-rlhf-pytorch](https://github.com/conceptofmind/LaMDA-rlhf-pytorch)<br>
+1. ⭐ Starred [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators)<br>
+2. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
+3. ⭐ Starred [tertle/com.bovinelabs.saving.free](https://github.com/tertle/com.bovinelabs.saving.free)<br>
+4. ⭐ Starred [tertle/com.bovinelabs.core](https://github.com/tertle/com.bovinelabs.core)<br>
+5. ⭐ Starred [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)<br>
+6. ⭐ Starred [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules)<br>
+7. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/ParticipantTablesToXML](https://github.com/Darth-Carrotpie/ParticipantTablesToXML)<br>
+8. ⭐ Starred [dokku/dokku](https://github.com/dokku/dokku)<br>
+9. ⭐ Starred [amerkurev/doku](https://github.com/amerkurev/doku)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
