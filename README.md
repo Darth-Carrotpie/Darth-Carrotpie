@@ -70,19 +70,19 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 29th, 2023, 2:54:06 AM
+Last Updated: Saturday, August 5th, 2023, 2:53:06 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators)<br>
-2. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
-3. ⭐ Starred [tertle/com.bovinelabs.saving.free](https://github.com/tertle/com.bovinelabs.saving.free)<br>
-4. ⭐ Starred [tertle/com.bovinelabs.core](https://github.com/tertle/com.bovinelabs.core)<br>
-5. ⭐ Starred [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)<br>
-6. ⭐ Starred [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules)<br>
-7. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/ParticipantTablesToXML](https://github.com/Darth-Carrotpie/ParticipantTablesToXML)<br>
-8. ⭐ Starred [dokku/dokku](https://github.com/dokku/dokku)<br>
-9. ⭐ Starred [amerkurev/doku](https://github.com/amerkurev/doku)<br>
+1. ⬆️ Pushed 2 commit(s) to [Darth-Carrotpie/ParlAI_SearchEngine](https://github.com/Darth-Carrotpie/ParlAI_SearchEngine)<br>
+2. 🔱 Forked [Darth-Carrotpie/ParlAI_SearchEngine](https://github.com/Darth-Carrotpie/ParlAI_SearchEngine) from [JulesGM/ParlAI_SearchEngine](https://github.com/JulesGM/ParlAI_SearchEngine)<br>
+3. ⭐ Starred [tertle/com.bovinelabs.naughtyattributes](https://github.com/tertle/com.bovinelabs.naughtyattributes)<br>
+4. ⭐ Starred [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators)<br>
+5. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
+6. ⭐ Starred [tertle/com.bovinelabs.saving.free](https://github.com/tertle/com.bovinelabs.saving.free)<br>
+7. ⭐ Starred [tertle/com.bovinelabs.core](https://github.com/tertle/com.bovinelabs.core)<br>
+8. ⭐ Starred [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)<br>
+9. ⭐ Starred [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
