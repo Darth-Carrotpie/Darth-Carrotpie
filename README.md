@@ -70,19 +70,19 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 19th, 2023, 2:42:41 AM
+Last Updated: Saturday, August 26th, 2023, 2:43:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Darth-Carrotpie/GenericEventSystem](https://github.com/Darth-Carrotpie/GenericEventSystem)<br>
-2. ⬆️ Pushed 2 commit(s) to [Darth-Carrotpie/ParlAI_SearchEngine](https://github.com/Darth-Carrotpie/ParlAI_SearchEngine)<br>
-3. 🔱 Forked [Darth-Carrotpie/ParlAI_SearchEngine](https://github.com/Darth-Carrotpie/ParlAI_SearchEngine) from [JulesGM/ParlAI_SearchEngine](https://github.com/JulesGM/ParlAI_SearchEngine)<br>
-4. ⭐ Starred [tertle/com.bovinelabs.naughtyattributes](https://github.com/tertle/com.bovinelabs.naughtyattributes)<br>
-5. ⭐ Starred [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators)<br>
-6. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
-7. ⭐ Starred [tertle/com.bovinelabs.saving.free](https://github.com/tertle/com.bovinelabs.saving.free)<br>
-8. ⭐ Starred [tertle/com.bovinelabs.core](https://github.com/tertle/com.bovinelabs.core)<br>
-9. ⭐ Starred [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)<br>
+1. ⭐ Starred [datsfain/EditorCools](https://github.com/datsfain/EditorCools)<br>
+2. ❗️ Opened issue [#13](https://github.com/merpheus-dev/NodeBasedDialogueSystem/issues/13) in [merpheus-dev/NodeBasedDialogueSystem](https://github.com/merpheus-dev/NodeBasedDialogueSystem)<br>
+3. ❗️ Opened issue [#12](https://github.com/merpheus-dev/NodeBasedDialogueSystem/issues/12) in [merpheus-dev/NodeBasedDialogueSystem](https://github.com/merpheus-dev/NodeBasedDialogueSystem)<br>
+4. 📔 Created new repository [Darth-Carrotpie/GenericEventSystem](https://github.com/Darth-Carrotpie/GenericEventSystem)<br>
+5. ⬆️ Pushed 2 commit(s) to [Darth-Carrotpie/ParlAI_SearchEngine](https://github.com/Darth-Carrotpie/ParlAI_SearchEngine)<br>
+6. 🔱 Forked [Darth-Carrotpie/ParlAI_SearchEngine](https://github.com/Darth-Carrotpie/ParlAI_SearchEngine) from [JulesGM/ParlAI_SearchEngine](https://github.com/JulesGM/ParlAI_SearchEngine)<br>
+7. ⭐ Starred [tertle/com.bovinelabs.naughtyattributes](https://github.com/tertle/com.bovinelabs.naughtyattributes)<br>
+8. ⭐ Starred [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators)<br>
+9. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
