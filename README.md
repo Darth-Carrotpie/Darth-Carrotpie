@@ -70,7 +70,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 9th, 2023, 2:44:23 AM
+Last Updated: Saturday, September 16th, 2023, 2:45:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -82,7 +82,6 @@ Last Updated: Saturday, September 9th, 2023, 2:44:23 AM
 6. 🔱 Forked [Darth-Carrotpie/ParlAI_SearchEngine](https://github.com/Darth-Carrotpie/ParlAI_SearchEngine) from [JulesGM/ParlAI_SearchEngine](https://github.com/JulesGM/ParlAI_SearchEngine)<br>
 7. ⭐ Starred [tertle/com.bovinelabs.naughtyattributes](https://github.com/tertle/com.bovinelabs.naughtyattributes)<br>
 8. ⭐ Starred [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators)<br>
-9. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
