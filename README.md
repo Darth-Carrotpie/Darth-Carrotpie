@@ -70,18 +70,19 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 23rd, 2023, 2:45:15 AM
+Last Updated: Saturday, September 30th, 2023, 2:45:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [datsfain/EditorCools](https://github.com/datsfain/EditorCools)<br>
-2. ❗️ Opened issue [#13](https://github.com/merpheus-dev/NodeBasedDialogueSystem/issues/13) in [merpheus-dev/NodeBasedDialogueSystem](https://github.com/merpheus-dev/NodeBasedDialogueSystem)<br>
-3. ❗️ Opened issue [#12](https://github.com/merpheus-dev/NodeBasedDialogueSystem/issues/12) in [merpheus-dev/NodeBasedDialogueSystem](https://github.com/merpheus-dev/NodeBasedDialogueSystem)<br>
-4. 📔 Created new repository [Darth-Carrotpie/GenericEventSystem](https://github.com/Darth-Carrotpie/GenericEventSystem)<br>
-5. ⬆️ Pushed 2 commit(s) to [Darth-Carrotpie/ParlAI_SearchEngine](https://github.com/Darth-Carrotpie/ParlAI_SearchEngine)<br>
-6. 🔱 Forked [Darth-Carrotpie/ParlAI_SearchEngine](https://github.com/Darth-Carrotpie/ParlAI_SearchEngine) from [JulesGM/ParlAI_SearchEngine](https://github.com/JulesGM/ParlAI_SearchEngine)<br>
-7. ⭐ Starred [tertle/com.bovinelabs.naughtyattributes](https://github.com/tertle/com.bovinelabs.naughtyattributes)<br>
-8. ⭐ Starred [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators)<br>
+1. ⭐ Starred [mokahaiku/nlp-recipes](https://github.com/mokahaiku/nlp-recipes)<br>
+2. ⭐ Starred [datsfain/EditorCools](https://github.com/datsfain/EditorCools)<br>
+3. ❗️ Opened issue [#13](https://github.com/merpheus-dev/NodeBasedDialogueSystem/issues/13) in [merpheus-dev/NodeBasedDialogueSystem](https://github.com/merpheus-dev/NodeBasedDialogueSystem)<br>
+4. ❗️ Opened issue [#12](https://github.com/merpheus-dev/NodeBasedDialogueSystem/issues/12) in [merpheus-dev/NodeBasedDialogueSystem](https://github.com/merpheus-dev/NodeBasedDialogueSystem)<br>
+5. 📔 Created new repository [Darth-Carrotpie/GenericEventSystem](https://github.com/Darth-Carrotpie/GenericEventSystem)<br>
+6. ⬆️ Pushed 2 commit(s) to [Darth-Carrotpie/ParlAI_SearchEngine](https://github.com/Darth-Carrotpie/ParlAI_SearchEngine)<br>
+7. 🔱 Forked [Darth-Carrotpie/ParlAI_SearchEngine](https://github.com/Darth-Carrotpie/ParlAI_SearchEngine) from [JulesGM/ParlAI_SearchEngine](https://github.com/JulesGM/ParlAI_SearchEngine)<br>
+8. ⭐ Starred [tertle/com.bovinelabs.naughtyattributes](https://github.com/tertle/com.bovinelabs.naughtyattributes)<br>
+9. ⭐ Starred [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
