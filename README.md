@@ -70,19 +70,19 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 7th, 2023, 2:46:44 AM
+Last Updated: Saturday, October 14th, 2023, 2:45:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf)<br>
-2. ⭐ Starred [aleguma/kronodroid](https://github.com/aleguma/kronodroid)<br>
-3. ⭐ Starred [frida/frida-python](https://github.com/frida/frida-python)<br>
-4. ⭐ Starred [vz-risk/veris](https://github.com/vz-risk/veris)<br>
-5. ⭐ Starred [vz-risk/veris](https://github.com/vz-risk/veris)<br>
-6. ⭐ Starred [mokahaiku/nlp-recipes](https://github.com/mokahaiku/nlp-recipes)<br>
-7. ⭐ Starred [datsfain/EditorCools](https://github.com/datsfain/EditorCools)<br>
-8. ❗️ Opened issue [#13](https://github.com/merpheus-dev/NodeBasedDialogueSystem/issues/13) in [merpheus-dev/NodeBasedDialogueSystem](https://github.com/merpheus-dev/NodeBasedDialogueSystem)<br>
-9. ❗️ Opened issue [#12](https://github.com/merpheus-dev/NodeBasedDialogueSystem/issues/12) in [merpheus-dev/NodeBasedDialogueSystem](https://github.com/merpheus-dev/NodeBasedDialogueSystem)<br>
+1. ⭐ Starred [jedisct1/libsodium](https://github.com/jedisct1/libsodium)<br>
+2. ⭐ Starred [binref/refinery](https://github.com/binref/refinery)<br>
+3. ⭐ Starred [bettercap/bettercap](https://github.com/bettercap/bettercap)<br>
+4. ⭐ Starred [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn)<br>
+5. ⭐ Starred [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg)<br>
+6. ⭐ Starred [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf)<br>
+7. ⭐ Starred [aleguma/kronodroid](https://github.com/aleguma/kronodroid)<br>
+8. ⭐ Starred [frida/frida-python](https://github.com/frida/frida-python)<br>
+9. ⭐ Starred [vz-risk/veris](https://github.com/vz-risk/veris)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
