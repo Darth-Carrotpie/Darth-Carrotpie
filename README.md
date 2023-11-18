@@ -70,19 +70,19 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 11th, 2023, 2:47:47 AM
+Last Updated: Saturday, November 18th, 2023, 2:49:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GenericEventSystem](https://github.com/Darth-Carrotpie/GenericEventSystem)<br>
-2. ⭐ Starred [jedisct1/libsodium](https://github.com/jedisct1/libsodium)<br>
-3. ⭐ Starred [binref/refinery](https://github.com/binref/refinery)<br>
-4. ⭐ Starred [bettercap/bettercap](https://github.com/bettercap/bettercap)<br>
-5. ⭐ Starred [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn)<br>
-6. ⭐ Starred [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg)<br>
-7. ⭐ Starred [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf)<br>
-8. ⭐ Starred [aleguma/kronodroid](https://github.com/aleguma/kronodroid)<br>
-9. ⭐ Starred [frida/frida-python](https://github.com/frida/frida-python)<br>
+1. ⭐ Starred [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy)<br>
+2. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GenericEventSystem](https://github.com/Darth-Carrotpie/GenericEventSystem)<br>
+3. ⭐ Starred [jedisct1/libsodium](https://github.com/jedisct1/libsodium)<br>
+4. ⭐ Starred [binref/refinery](https://github.com/binref/refinery)<br>
+5. ⭐ Starred [bettercap/bettercap](https://github.com/bettercap/bettercap)<br>
+6. ⭐ Starred [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn)<br>
+7. ⭐ Starred [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg)<br>
+8. ⭐ Starred [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf)<br>
+9. ⭐ Starred [aleguma/kronodroid](https://github.com/aleguma/kronodroid)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
