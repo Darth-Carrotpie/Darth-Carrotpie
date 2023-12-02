@@ -70,19 +70,19 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 25th, 2023, 2:48:16 AM
+Last Updated: Saturday, December 2nd, 2023, 2:49:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy)<br>
-2. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GenericEventSystem](https://github.com/Darth-Carrotpie/GenericEventSystem)<br>
-3. ⭐ Starred [jedisct1/libsodium](https://github.com/jedisct1/libsodium)<br>
-4. ⭐ Starred [binref/refinery](https://github.com/binref/refinery)<br>
-5. ⭐ Starred [bettercap/bettercap](https://github.com/bettercap/bettercap)<br>
-6. ⭐ Starred [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn)<br>
-7. ⭐ Starred [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg)<br>
-8. ⭐ Starred [greatscottgadgets/hackrf](https://github.com/greatscottgadgets/hackrf)<br>
-9. ⭐ Starred [aleguma/kronodroid](https://github.com/aleguma/kronodroid)<br>
+1. ⭐ Starred [Siccity/xNode](https://github.com/Siccity/xNode)<br>
+2. ⭐ Starred [SiiMeR/unity-volumetric-fog](https://github.com/SiiMeR/unity-volumetric-fog)<br>
+3. ⭐ Starred [yoship1639/UniToon](https://github.com/yoship1639/UniToon)<br>
+4. ⭐ Starred [AdultLink/RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)<br>
+5. ⭐ Starred [dbrizov/NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)<br>
+6. ⭐ Starred [kyubuns/Baum2](https://github.com/kyubuns/Baum2)<br>
+7. ⭐ Starred [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy)<br>
+8. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GenericEventSystem](https://github.com/Darth-Carrotpie/GenericEventSystem)<br>
+9. ⭐ Starred [jedisct1/libsodium](https://github.com/jedisct1/libsodium)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
