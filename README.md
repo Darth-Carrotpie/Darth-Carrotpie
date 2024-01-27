@@ -70,19 +70,19 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 20th, 2024, 2:51:25 AM
+Last Updated: Saturday, January 27th, 2024, 2:47:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)<br>
-2. ⭐ Starred [Siccity/xNode](https://github.com/Siccity/xNode)<br>
-3. ⭐ Starred [SiiMeR/unity-volumetric-fog](https://github.com/SiiMeR/unity-volumetric-fog)<br>
-4. ⭐ Starred [yoship1639/UniToon](https://github.com/yoship1639/UniToon)<br>
-5. ⭐ Starred [AdultLink/RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)<br>
-6. ⭐ Starred [dbrizov/NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)<br>
-7. ⭐ Starred [kyubuns/Baum2](https://github.com/kyubuns/Baum2)<br>
-8. ⭐ Starred [DominicBreuker/pspy](https://github.com/DominicBreuker/pspy)<br>
-9. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GenericEventSystem](https://github.com/Darth-Carrotpie/GenericEventSystem)<br>
+1. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
+2. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
+3. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
+4. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
+5. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
+6. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
+7. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
+8. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
+9. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
