@@ -70,7 +70,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 27th, 2024, 2:47:34 AM
+Last Updated: Saturday, February 3rd, 2024, 2:47:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -78,11 +78,11 @@ Last Updated: Saturday, January 27th, 2024, 2:47:34 AM
 2. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
 3. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
 4. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
-5. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
+5. ⬆️ Pushed 3 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
 6. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
-7. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
+7. ⬆️ Pushed 4 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
 8. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
-9. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
+9. ⬆️ Pushed 3 commit(s) to [Darth-Carrotpie/GGJ24](https://github.com/Darth-Carrotpie/GGJ24)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
