@@ -70,18 +70,18 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 24th, 2024, 2:56:08 AM
+Last Updated: Saturday, August 31st, 2024, 2:59:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [xmikos/qspectrumanalyzer](https://github.com/xmikos/qspectrumanalyzer)<br>
-2. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
+1. ⭐ Starred [digininja/DVWA](https://github.com/digininja/DVWA)<br>
+2. ⭐ Starred [xmikos/qspectrumanalyzer](https://github.com/xmikos/qspectrumanalyzer)<br>
 3. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
-4. ⭐ Starred [ail-project/ail-framework](https://github.com/ail-project/ail-framework)<br>
-5. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
-6. ⭐ Starred [zed-0xff/zsteg](https://github.com/zed-0xff/zsteg)<br>
-7. ⭐ Starred [p0dalirius/smbclient-ng](https://github.com/p0dalirius/smbclient-ng)<br>
-8. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
+4. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
+5. ⭐ Starred [ail-project/ail-framework](https://github.com/ail-project/ail-framework)<br>
+6. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
+7. ⭐ Starred [zed-0xff/zsteg](https://github.com/zed-0xff/zsteg)<br>
+8. ⭐ Starred [p0dalirius/smbclient-ng](https://github.com/p0dalirius/smbclient-ng)<br>
 9. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
 <!--RECENT_ACTIVITY:end-->
 
