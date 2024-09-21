@@ -70,7 +70,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 14th, 2024, 2:59:46 AM
+Last Updated: Saturday, September 21st, 2024, 3:00:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -80,8 +80,6 @@ Last Updated: Saturday, September 14th, 2024, 2:59:46 AM
 4. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
 5. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
 6. ⭐ Starred [ail-project/ail-framework](https://github.com/ail-project/ail-framework)<br>
-7. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
-8. ⭐ Starred [zed-0xff/zsteg](https://github.com/zed-0xff/zsteg)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
