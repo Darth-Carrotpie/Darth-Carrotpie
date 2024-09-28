@@ -70,7 +70,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 21st, 2024, 3:00:35 AM
+Last Updated: Saturday, September 28th, 2024, 3:02:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -78,8 +78,6 @@ Last Updated: Saturday, September 21st, 2024, 3:00:35 AM
 2. ⭐ Starred [digininja/DVWA](https://github.com/digininja/DVWA)<br>
 3. ⭐ Starred [xmikos/qspectrumanalyzer](https://github.com/xmikos/qspectrumanalyzer)<br>
 4. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
-5. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
-6. ⭐ Starred [ail-project/ail-framework](https://github.com/ail-project/ail-framework)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
