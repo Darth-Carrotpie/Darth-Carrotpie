@@ -70,14 +70,17 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 26th, 2024, 3:02:12 AM
+Last Updated: Saturday, November 2nd, 2024, 3:03:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Dragos0305/CyberNet](https://github.com/Dragos0305/CyberNet)<br>
-2. ❗️ Opened issue [#3](https://github.com/GDSCParulUniversity/flutter-devcontainer/issues/3) in [GDSCParulUniversity/flutter-devcontainer](https://github.com/GDSCParulUniversity/flutter-devcontainer)<br>
-3. ⭐ Starred [digininja/DVWA](https://github.com/digininja/DVWA)<br>
-4. ⭐ Starred [xmikos/qspectrumanalyzer](https://github.com/xmikos/qspectrumanalyzer)<br>
+1. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/GenericEventSystem](https://github.com/Darth-Carrotpie/GenericEventSystem)<br>
+2. ⬆️ Pushed 2 commit(s) to [Darth-Carrotpie/GenericEventSystem](https://github.com/Darth-Carrotpie/GenericEventSystem)<br>
+3. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
+4. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
+5. ⭐ Starred [Dragos0305/CyberNet](https://github.com/Dragos0305/CyberNet)<br>
+6. ❗️ Opened issue [#3](https://github.com/GDSCParulUniversity/flutter-devcontainer/issues/3) in [GDSCParulUniversity/flutter-devcontainer](https://github.com/GDSCParulUniversity/flutter-devcontainer)<br>
+7. ⭐ Starred [digininja/DVWA](https://github.com/digininja/DVWA)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
