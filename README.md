@@ -5,11 +5,11 @@
 
 <!-- cron job for this action executes once per week every saturday https://crontab.guru/#0_0_*_*_6 -->
 
-## I'm a Developer, ML Engineer and Cyber Security Professional!
+## I'm a Developer and Cyber Security Professional!
 
 - 🌱 I love learning everything 🤣
 - 👯 I’m looking to collaborate on inter-disciplinary products
-- 🥅 2023 Goals: Visit Japan and earn a top Cyber Security certificate
+- 🥅 2025 Goals: Release a Cyber Security PC game
 - ⚡ Fun facts: I love games, including ttRPG and boardgames, play piano and train Aikido
 
 
