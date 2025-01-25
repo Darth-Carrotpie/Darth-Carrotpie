@@ -70,18 +70,18 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 18th, 2025, 3:00:40 AM
+Last Updated: Saturday, January 25th, 2025, 2:59:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Dreaming381/Latios-Framework](https://github.com/Dreaming381/Latios-Framework)<br>
-2. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
+1. ✔️ Closed issue [#4](https://github.com/tertle/com.bovinelabs.core/issues/4) in [tertle/com.bovinelabs.core](https://github.com/tertle/com.bovinelabs.core)<br>
+2. ⭐ Starred [Dreaming381/Latios-Framework](https://github.com/Dreaming381/Latios-Framework)<br>
 3. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
 4. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
 5. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
 6. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
-7. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/Darth-Carrotpie](https://github.com/Darth-Carrotpie/Darth-Carrotpie)<br>
-8. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
+7. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
+8. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/Darth-Carrotpie](https://github.com/Darth-Carrotpie/Darth-Carrotpie)<br>
 9. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/BaseBuilderCore](https://github.com/Darth-Carrotpie/BaseBuilderCore)<br>
 <!--RECENT_ACTIVITY:end-->
 
