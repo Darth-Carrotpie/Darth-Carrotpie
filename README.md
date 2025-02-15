@@ -70,18 +70,18 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 8th, 2025, 3:02:04 AM
+Last Updated: Saturday, February 15th, 2025, 3:03:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [CountingSheeplets/SheepGame](https://github.com/CountingSheeplets/SheepGame)<br>
-2. ⬆️ Pushed 1 commit(s) to [CountingSheeplets/SheepGame](https://github.com/CountingSheeplets/SheepGame)<br>
-3. ❌ Closed PR [#33](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/33) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
-4. ❌ Closed PR [#34](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/34) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
-5. ❌ Closed PR [#35](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/35) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
-6. ❌ Closed PR [#36](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/36) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
-7. ❌ Closed PR [#37](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/37) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
-8. ⬆️ Pushed 1 commit(s) to [CountingSheeplets/SheepGame](https://github.com/CountingSheeplets/SheepGame)<br>
+1. ❗️ Opened issue [#25](https://github.com/yn01-dev/MagicTween/issues/25) in [yn01-dev/MagicTween](https://github.com/yn01-dev/MagicTween)<br>
+2. ⬆️ Pushed 3 commit(s) to [CountingSheeplets/SheepGame](https://github.com/CountingSheeplets/SheepGame)<br>
+3. ⬆️ Pushed 1 commit(s) to [CountingSheeplets/SheepGame](https://github.com/CountingSheeplets/SheepGame)<br>
+4. ❌ Closed PR [#33](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/33) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
+5. ❌ Closed PR [#34](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/34) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
+6. ❌ Closed PR [#35](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/35) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
+7. ❌ Closed PR [#36](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/36) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
+8. ❌ Closed PR [#37](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/37) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
 9. ⬆️ Pushed 1 commit(s) to [CountingSheeplets/SheepGame](https://github.com/CountingSheeplets/SheepGame)<br>
 <!--RECENT_ACTIVITY:end-->
 
