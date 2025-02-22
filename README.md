@@ -70,19 +70,19 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 15th, 2025, 3:03:15 AM
+Last Updated: Saturday, February 22nd, 2025, 3:02:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#25](https://github.com/yn01-dev/MagicTween/issues/25) in [yn01-dev/MagicTween](https://github.com/yn01-dev/MagicTween)<br>
-2. ⬆️ Pushed 3 commit(s) to [CountingSheeplets/SheepGame](https://github.com/CountingSheeplets/SheepGame)<br>
-3. ⬆️ Pushed 1 commit(s) to [CountingSheeplets/SheepGame](https://github.com/CountingSheeplets/SheepGame)<br>
-4. ❌ Closed PR [#33](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/33) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
-5. ❌ Closed PR [#34](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/34) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
-6. ❌ Closed PR [#35](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/35) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
-7. ❌ Closed PR [#36](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/36) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
-8. ❌ Closed PR [#37](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/37) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
-9. ⬆️ Pushed 1 commit(s) to [CountingSheeplets/SheepGame](https://github.com/CountingSheeplets/SheepGame)<br>
+1. ❗️ Opened issue [#5](https://github.com/david-rzepa/HyperTween/issues/5) in [david-rzepa/HyperTween](https://github.com/david-rzepa/HyperTween)<br>
+2. ❗️ Opened issue [#4](https://github.com/david-rzepa/HyperTween/issues/4) in [david-rzepa/HyperTween](https://github.com/david-rzepa/HyperTween)<br>
+3. ⭐ Starred [david-rzepa/HyperTween](https://github.com/david-rzepa/HyperTween)<br>
+4. ❗️ Opened issue [#1](https://github.com/david-rzepa/HyperTween/issues/1) in [david-rzepa/HyperTween](https://github.com/david-rzepa/HyperTween)<br>
+5. ❗️ Opened issue [#25](https://github.com/yn01-dev/MagicTween/issues/25) in [yn01-dev/MagicTween](https://github.com/yn01-dev/MagicTween)<br>
+6. ⬆️ Pushed 3 commit(s) to [CountingSheeplets/SheepGame](https://github.com/CountingSheeplets/SheepGame)<br>
+7. ⬆️ Pushed 1 commit(s) to [CountingSheeplets/SheepGame](https://github.com/CountingSheeplets/SheepGame)<br>
+8. ❌ Closed PR [#33](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/33) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
+9. ❌ Closed PR [#34](https://github.com/Darth-Carrotpie/sheepgame-controls/pull/34) in [Darth-Carrotpie/sheepgame-controls](https://github.com/Darth-Carrotpie/sheepgame-controls)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
