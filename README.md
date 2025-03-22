@@ -70,15 +70,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 15th, 2025, 3:06:01 AM
+Last Updated: Saturday, March 22nd, 2025, 3:07:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#5](https://github.com/david-rzepa/HyperTween/issues/5) in [david-rzepa/HyperTween](https://github.com/david-rzepa/HyperTween)<br>
-2. ❗️ Opened issue [#4](https://github.com/david-rzepa/HyperTween/issues/4) in [david-rzepa/HyperTween](https://github.com/david-rzepa/HyperTween)<br>
-3. ⭐ Starred [david-rzepa/HyperTween](https://github.com/david-rzepa/HyperTween)<br>
-4. ❗️ Opened issue [#1](https://github.com/david-rzepa/HyperTween/issues/1) in [david-rzepa/HyperTween](https://github.com/david-rzepa/HyperTween)<br>
-5. ❗️ Opened issue [#25](https://github.com/yn01-dev/MagicTween/issues/25) in [yn01-dev/MagicTween](https://github.com/yn01-dev/MagicTween)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
