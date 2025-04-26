@@ -70,13 +70,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 19th, 2025, 2:13:50 AM
+Last Updated: Saturday, April 26th, 2025, 2:14:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [t3l3machus/toxssin](https://github.com/t3l3machus/toxssin)<br>
 2. ⭐ Starred [Cyphercoda/LLM-Packet-Analyzer](https://github.com/Cyphercoda/LLM-Packet-Analyzer)<br>
-3. 📔 Created new repository [Darth-Carrotpie/EnSecTraining](https://github.com/Darth-Carrotpie/EnSecTraining)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
