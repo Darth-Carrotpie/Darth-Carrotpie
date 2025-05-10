@@ -70,12 +70,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 3rd, 2025, 2:14:09 AM
+Last Updated: Saturday, May 10th, 2025, 2:14:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [t3l3machus/toxssin](https://github.com/t3l3machus/toxssin)<br>
-2. ⭐ Starred [Cyphercoda/LLM-Packet-Analyzer](https://github.com/Cyphercoda/LLM-Packet-Analyzer)<br>
+1. ❗️ Opened issue [#28](https://github.com/CoderGamester/mcp-unity/issues/28) in [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)<br>
+2. ⭐ Starred [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)<br>
+3. ⭐ Starred [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
