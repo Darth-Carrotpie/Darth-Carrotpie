@@ -70,13 +70,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 10th, 2025, 2:14:22 AM
+Last Updated: Saturday, May 17th, 2025, 2:14:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#28](https://github.com/CoderGamester/mcp-unity/issues/28) in [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)<br>
-2. ⭐ Starred [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)<br>
-3. ⭐ Starred [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)<br>
+1. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)<br>
+2. ⭐ Starred [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)<br>
+3. ⭐ Starred [msdirtbag/azurevelo](https://github.com/msdirtbag/azurevelo)<br>
+4. ❗️ Opened issue [#28](https://github.com/CoderGamester/mcp-unity/issues/28) in [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)<br>
+5. ⭐ Starred [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)<br>
+6. ⭐ Starred [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
