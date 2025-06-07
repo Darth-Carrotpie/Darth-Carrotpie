@@ -70,16 +70,14 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 31st, 2025, 2:14:46 AM
+Last Updated: Saturday, June 7th, 2025, 2:15:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)<br>
-2. ⭐ Starred [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)<br>
-3. ⭐ Starred [msdirtbag/azurevelo](https://github.com/msdirtbag/azurevelo)<br>
-4. ❗️ Opened issue [#28](https://github.com/CoderGamester/mcp-unity/issues/28) in [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)<br>
-5. ⭐ Starred [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)<br>
-6. ⭐ Starred [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)<br>
+1. ⭐ Starred [flnarg/heimdal](https://github.com/flnarg/heimdal)<br>
+2. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)<br>
+3. ⭐ Starred [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)<br>
+4. ⭐ Starred [msdirtbag/azurevelo](https://github.com/msdirtbag/azurevelo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
