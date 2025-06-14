@@ -70,14 +70,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 7th, 2025, 2:15:14 AM
+Last Updated: Saturday, June 14th, 2025, 2:14:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [flnarg/heimdal](https://github.com/flnarg/heimdal)<br>
-2. ⭐ Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)<br>
-3. ⭐ Starred [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)<br>
-4. ⭐ Starred [msdirtbag/azurevelo](https://github.com/msdirtbag/azurevelo)<br>
+1. ⭐ Starred [M-Quinn/DesignPatterns](https://github.com/M-Quinn/DesignPatterns)<br>
+2. ⭐ Starred [redgeoff/openvpn-server-vagrant](https://github.com/redgeoff/openvpn-server-vagrant)<br>
+3. ⭐ Starred [flnarg/heimdal](https://github.com/flnarg/heimdal)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
