@@ -70,7 +70,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 28th, 2025, 2:14:58 AM
+Last Updated: Saturday, July 5th, 2025, 2:14:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -78,7 +78,6 @@ Last Updated: Saturday, June 28th, 2025, 2:14:58 AM
 2. ⭐ Starred [pentastic-be/ICSSecurityScripts](https://github.com/pentastic-be/ICSSecurityScripts)<br>
 3. ⭐ Starred [M-Quinn/DesignPatterns](https://github.com/M-Quinn/DesignPatterns)<br>
 4. ⭐ Starred [redgeoff/openvpn-server-vagrant](https://github.com/redgeoff/openvpn-server-vagrant)<br>
-5. ⭐ Starred [flnarg/heimdal](https://github.com/flnarg/heimdal)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
