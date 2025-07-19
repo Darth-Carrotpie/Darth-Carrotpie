@@ -70,13 +70,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 12th, 2025, 2:15:28 AM
+Last Updated: Saturday, July 19th, 2025, 2:16:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [arnaudsoullie/scan7](https://github.com/arnaudsoullie/scan7)<br>
-2. ⭐ Starred [pentastic-be/ICSSecurityScripts](https://github.com/pentastic-be/ICSSecurityScripts)<br>
-3. ⭐ Starred [M-Quinn/DesignPatterns](https://github.com/M-Quinn/DesignPatterns)<br>
+1. ⭐ Starred [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook)<br>
+2. ⭐ Starred [arnaudsoullie/scan7](https://github.com/arnaudsoullie/scan7)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
