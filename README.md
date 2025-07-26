@@ -70,12 +70,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 19th, 2025, 2:16:04 AM
+Last Updated: Saturday, July 26th, 2025, 2:15:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook)<br>
-2. ⭐ Starred [arnaudsoullie/scan7](https://github.com/arnaudsoullie/scan7)<br>
+1. ⭐ Starred [continue-revolution/sd-webui-animatediff](https://github.com/continue-revolution/sd-webui-animatediff)<br>
+2. ⭐ Starred [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
