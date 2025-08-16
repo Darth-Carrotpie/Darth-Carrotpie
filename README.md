@@ -70,12 +70,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 9th, 2025, 2:15:13 AM
+Last Updated: Saturday, August 16th, 2025, 2:14:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [continue-revolution/sd-webui-animatediff](https://github.com/continue-revolution/sd-webui-animatediff)<br>
-2. ⭐ Starred [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook)<br>
+1. ❗️ Opened issue [#75](https://github.com/CoderGamester/mcp-unity/issues/75) in [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)<br>
+2. ⭐ Starred [continue-revolution/sd-webui-animatediff](https://github.com/continue-revolution/sd-webui-animatediff)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
