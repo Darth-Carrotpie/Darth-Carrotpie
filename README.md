@@ -70,12 +70,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 23rd, 2025, 2:14:18 AM
+Last Updated: Saturday, August 30th, 2025, 2:14:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 1. ❗️ Opened issue [#75](https://github.com/CoderGamester/mcp-unity/issues/75) in [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)<br>
-2. ⭐ Starred [continue-revolution/sd-webui-animatediff](https://github.com/continue-revolution/sd-webui-animatediff)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
