@@ -70,11 +70,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 13th, 2025, 2:13:11 AM
+Last Updated: Saturday, September 20th, 2025, 2:13:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#75](https://github.com/CoderGamester/mcp-unity/issues/75) in [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)<br>
+1. ⬆️ Pushed 1 commit(s) to [Darth-Carrotpie/ProxyEvents](https://github.com/Darth-Carrotpie/ProxyEvents)<br>
+2. 📔 Created new repository [Darth-Carrotpie/ProxyEvents](https://github.com/Darth-Carrotpie/ProxyEvents)<br>
+3. ❗️ Opened issue [#277](https://github.com/CoplayDev/unity-mcp/issues/277) in [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
