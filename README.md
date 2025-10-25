@@ -70,16 +70,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 18th, 2025, 2:13:27 AM
+Last Updated: Saturday, October 25th, 2025, 2:14:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Darth-Carrotpie/ProxyCore](https://github.com/Darth-Carrotpie/ProxyCore)<br>
 2. ⬆️ Pushed undefined commit(s) to [Darth-Carrotpie/ProxyCore](https://github.com/Darth-Carrotpie/ProxyCore)<br>
-3. ⭐ Starred [keijiro/Skinner](https://github.com/keijiro/Skinner)<br>
-4. ⬆️ Pushed undefined commit(s) to [Darth-Carrotpie/ProxyEvents](https://github.com/Darth-Carrotpie/ProxyEvents)<br>
-5. ✔️ Closed issue [#277](https://github.com/CoplayDev/unity-mcp/issues/277) in [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)<br>
-6. ❗️ Opened issue [#277](https://github.com/CoplayDev/unity-mcp/issues/277) in [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
