@@ -70,17 +70,14 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 23rd, 2026, 2:39:30 AM
+Last Updated: Saturday, May 30th, 2026, 2:39:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)<br>
+1. ⬆️ Pushed undefined commit(s) to [Darth-Carrotpie/ProxyCore](https://github.com/Darth-Carrotpie/ProxyCore)<br>
 2. ⬆️ Pushed undefined commit(s) to [Darth-Carrotpie/ProxyCore](https://github.com/Darth-Carrotpie/ProxyCore)<br>
-3. ⬆️ Pushed undefined commit(s) to [Darth-Carrotpie/ProxyCore](https://github.com/Darth-Carrotpie/ProxyCore)<br>
-4. ⬆️ Pushed undefined commit(s) to [Darth-Carrotpie/ProxyCore](https://github.com/Darth-Carrotpie/ProxyCore)<br>
-5. ⬆️ Pushed undefined commit(s) to [Darth-Carrotpie/ProxyCore](https://github.com/Darth-Carrotpie/ProxyCore)<br>
-6. ⬆️ Pushed undefined commit(s) to [Darth-Carrotpie/ProxyCore](https://github.com/Darth-Carrotpie/ProxyCore)<br>
-7. ⬆️ Pushed undefined commit(s) to [Darth-Carrotpie/ProxyCore](https://github.com/Darth-Carrotpie/ProxyCore)<br>
+3. ⭐ Starred [mandiant/flare-floss](https://github.com/mandiant/flare-floss)<br>
+4. ⭐ Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
