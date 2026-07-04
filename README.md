@@ -70,15 +70,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 27th, 2026, 2:41:40 AM
+Last Updated: Saturday, July 4th, 2026, 2:33:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>
-2. ⭐ Starred [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)<br>
-3. ⬆️ Pushed undefined commit(s) to [Darth-Carrotpie/ProxyCore](https://github.com/Darth-Carrotpie/ProxyCore)<br>
-4. ⬆️ Pushed undefined commit(s) to [Darth-Carrotpie/ProxyCore](https://github.com/Darth-Carrotpie/ProxyCore)<br>
-5. ⭐ Starred [mandiant/flare-floss](https://github.com/mandiant/flare-floss)<br>
+1. ⭐ Starred [endel/NativeWebSocket](https://github.com/endel/NativeWebSocket)<br>
+2. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>
+3. ⭐ Starred [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
